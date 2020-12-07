@@ -869,7 +869,7 @@ k8s.io/client-go/util/jsonpath
 k8s.io/client-go/util/keyutil
 k8s.io/client-go/util/retry
 k8s.io/client-go/util/workqueue
-# k8s.io/code-generator v0.18.0 => k8s.io/code-generator v0.17.6
+# k8s.io/code-generator v0.19.4 => k8s.io/code-generator v0.17.6
 ## explicit
 k8s.io/code-generator
 k8s.io/code-generator/cmd/client-gen
