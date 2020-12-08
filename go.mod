@@ -47,7 +47,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.1.0
 	google.golang.org/api v0.20.0
 	google.golang.org/grpc v1.28.0
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22
 	k8s.io/api v0.17.6
 	k8s.io/apiextensions-apiserver v0.17.6
