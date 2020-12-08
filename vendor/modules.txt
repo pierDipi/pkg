@@ -149,9 +149,10 @@ github.com/google/go-cmp/cmp/internal/value
 github.com/google/go-github/v27/github
 # github.com/google/go-querystring v1.0.0
 github.com/google/go-querystring/query
-# github.com/google/gofuzz v1.1.0
+# github.com/google/gofuzz v1.2.0
 ## explicit
 github.com/google/gofuzz
+github.com/google/gofuzz/bytesource
 # github.com/google/mako v0.0.0-20190821191249-122f8dcef9e3
 ## explicit
 github.com/google/mako/clients/proto/analyzers/threshold_analyzer_go_proto
