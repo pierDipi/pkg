@@ -18,7 +18,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v0.1.0
 	github.com/gobuffalo/envy v1.7.1 // indirect
-	github.com/golang/protobuf v1.3.5
+	github.com/golang/protobuf v1.4.2
 	github.com/google/go-cmp v0.4.0
 	github.com/google/go-github/v27 v27.0.6
 	github.com/google/gofuzz v1.1.0
@@ -32,8 +32,8 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/markbates/inflect v1.0.4
 	github.com/openzipkin/zipkin-go v0.2.2
-	github.com/prometheus/client_golang v1.5.0
-	github.com/prometheus/common v0.9.1
+	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/common v0.17.0
 	github.com/prometheus/procfs v0.0.11 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/streadway/quantile v0.0.0-20150917103942-b0c588724d25 // indirect
@@ -41,13 +41,13 @@ require (
 	go.opencensus.io v0.22.4
 	go.uber.org/multierr v1.5.0
 	go.uber.org/zap v1.14.1
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 	gomodules.xyz/jsonpatch/v2 v2.1.0
 	google.golang.org/api v0.20.0
 	google.golang.org/grpc v1.28.0
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	gopkg.in/yaml.v3 v3.0.0-20190709130402-674ba3eaed22
 	k8s.io/api v0.17.6
 	k8s.io/apiextensions-apiserver v0.17.6
